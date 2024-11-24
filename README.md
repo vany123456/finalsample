@@ -10,3 +10,5 @@ ddffd
 checking buil triger
 nmncm
 finl check
+
+deploy pack

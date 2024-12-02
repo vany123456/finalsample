@@ -14,3 +14,4 @@ finl check
 deploy pack
 
 webhook update
+checck jenkins to github
